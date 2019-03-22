@@ -9,6 +9,7 @@ h1 {
 
 .image {
   width: 50%;
+  float: left;
   /* vertical-align: top;
   border: 5px solid, black;
   margin-left: auto;
