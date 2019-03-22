@@ -14,9 +14,7 @@ body {
 }
 
 ul {
-  padding-left: 50px;
   list-style: square inside;
-  /* display: block; */
 }
 
 .numbered {
