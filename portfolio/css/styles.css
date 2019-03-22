@@ -14,11 +14,18 @@ body {
 }
 
 ul {
-  padding-left: 15px;
-  display: block;
+  padding-left: 50px;
+  list-style: square inside;
+  /* display: block; */
 }
 
-.image:hover {
+.numbered {
+  padding: 5px;
+
+}
+
+/* .image:hover {
+  max-width: 100%; */
   /* image-orientation: 180; */
   /* background: url("img/dumpster.jpg") */
 }
