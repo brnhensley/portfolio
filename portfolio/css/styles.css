@@ -22,10 +22,14 @@ ul {
 
 }
 
-/* .image:hover {
-  max-width: 100%; */
-  /* image-orientation: 180; */
-  /* background: url("img/dumpster.jpg") */
+img:hover {
+  background: url("img/dumpster.jpg")
+}
+
+.image:onclick {
+  max-width: 100%;
+  image-orientation: 180;
+  background: url("img/dumpster.jpg")
 }
 
 
