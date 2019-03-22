@@ -10,6 +10,7 @@ body {
 .image {
   max-width: 25%;
   float: left;
+  margin: 15px;
 }
 
 .image:hover {
