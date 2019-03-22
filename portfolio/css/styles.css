@@ -13,20 +13,25 @@ body {
   margin: 15px;
 }
 
+ul {
+  padding-left: 15px;
+  display: block;
+}
+
 .image:hover {
   /* image-orientation: 180; */
   /* background: url("img/dumpster.jpg") */
 }
 
-.projects {
+
+/* .projects {
   text-align: left;
-}
+} */
 
 .container {
   /* background-image: image("img/stars.gif"); */
   margin-bottom: 25px;
 }
-
 
 /* This section is for the bottom panel */
 .panel-title  {
