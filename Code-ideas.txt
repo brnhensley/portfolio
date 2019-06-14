@@ -1,0 +1,37 @@
+program emergent behavior - grid of lights living and dying
+	could work with player input. drawing on the grid as a starting point then watching it grow
+
+-plugin that stops all gifs  - CAPSTONE
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions
+
+-plugin that "ad blocks" bullshit websites
+
+-A game that google searches randomly from a list of most common english words and returns the first image result - user tries to guess the searched word
+	-multiple choice?
+		-might require linked arrays of similar words for choice or the answers 		 could be obvious because of dissimilarity of choices 
+	-maybe list of most common one word google searches? included pop culture, 		 discludes "of" "a" "the"
+	-maybe list of nouns?
+
+Jens Kuhn wants volunteers to help create a database of all viruses
+	https://www.nature.com/articles/d41586-019-00599-8
+
+
+Qiskit	https://qiskit.org/
+
+DF - 	script that changes favorite foods to less specific 
+		boar meat instead of boar heart, or better yet just boar
+	script that automatically queues butchering orders when corpses enter corpse 			stockpile (just like tanning)
+		those that can't be butchered (livestock killed by enemies) marked as Dump
+	script that forbids fertilized eggs
+		By species? like the auto butcher plugin expanded for eggs
+		Maybe expansion of autonestbox
+	script that automatically marks rotten items to dump (also cartilage, nervous 			tissue, etc?)
+	script to add a "can learn" and "Butcherable only" filter option to stockpile 			screen
+	script that will open "thoughts and preferences" screen from unit list (to see 			dead people prefs)
+	Turn lua dfhack.gui.getSelectedUnit().animal.vanish_countdown=2
+		into a simpler script "disappear"
+	make cage-butcher permanent
+	auto mark Dump any rotten items (or non-butcherable)
+	script to run all my starting scripts
+	script to make pet names one word
+ 
