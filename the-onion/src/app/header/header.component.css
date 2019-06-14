@@ -1,0 +1,11 @@
+#header {
+    width: 100%;
+    height: 150px;
+    background-color: aqua;
+}
+
+img {
+    vertical-align: middle;
+    width: 40%;
+    padding-left: 5%;
+}
