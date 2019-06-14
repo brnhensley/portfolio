@@ -3,13 +3,15 @@
   height: 150px;
   background-color: aqua;
   display: inline-block;
+  border-bottom: solid lightgrey 1px;
 }
 
-img {
+.icons .img {
   width: 40%;
   padding-left: 3%;
   padding-top: 20px;
   vertical-align: middle;
+  float: left;
 }
 
 .secondary-nav {
@@ -37,4 +39,12 @@ img {
 .secondary-nav a.active {
   background-color: #378662;
   color: white;
+}
+
+.btn-floating {
+  background-color: #378662;
+}
+
+.icons {
+  text-align: right;
 }
