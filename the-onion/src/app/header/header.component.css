@@ -5,16 +5,17 @@
   border-bottom: solid lightgrey 1px;
 }
 
-.icons .img {
+img {
   width: 40%;
   padding-left: 3%;
   padding-top: 20px;
   vertical-align: middle;
-  /* float: left; */
+  text-align: right;
 }
 
-.icons {
-  /* text-align: right; */
+#icons {
+  text-align: right;
+  color: #378662
 }
 
 .secondary-nav {
@@ -58,10 +59,11 @@
 }
 
 #spacer:hover {
+  width: 5px;
   background-color: white;
   border-right: solid lightgrey 1px;
 }
 
-.icons a {
+#icons a {
   margin-right: 20px;
 }
